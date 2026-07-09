@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 526.88 202.14">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #706f6f;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        font-family: Montserrat-Regular, Montserrat;
+        font-size: 40px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-4 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #1d71b8;
+      }
+
+      .cls-7 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        font-family: Montserrat-Black, Montserrat;
+        font-size: 70.16px;
+        font-variation-settings: 'wght' 900;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <polygon class="cls-1" points="119.72 59.86 95.95 83.63 59.86 47.54 23.77 83.63 0 59.86 59.86 0 119.72 59.86"/>
+      <polygon class="cls-5" points="119.72 113.03 95.95 136.8 59.86 100.71 23.77 136.8 0 113.03 59.86 53.17 119.72 113.03"/>
+      <rect class="cls-5" x="34.55" y="142.06" width="49.77" height="49.77" transform="translate(135.46 6.87) rotate(45)"/>
+    </g>
+    <g>
+      <text class="cls-6" transform="translate(167.88 98.94)"><tspan x="0" y="0">E</tspan><tspan class="cls-4" x="47.22" y="0">ST</tspan><tspan x="137.79" y="0">OQUE</tspan></text>
+      <text class="cls-2" transform="translate(171.46 152.81)"><tspan class="cls-7" x="0" y="0">C</tspan><tspan x="26.96" y="0">ONTEM</tspan><tspan class="cls-3" x="180.96" y="0">P</tspan><tspan x="209.28" y="0">LADOS</tspan></text>
+    </g>
+  </g>
+</svg>
