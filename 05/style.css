@@ -601,7 +601,7 @@ td:nth-child(7) {
   text-align: center !important;
   max-width: 40px;
 }
-td:nth-child(13) {
+td:nth-child(13), td:nth-child(12) {
 display: none;
 }
 
